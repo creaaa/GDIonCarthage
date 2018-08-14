@@ -12,5 +12,6 @@ public struct Goddemnit {
     public init(){}
     public func curse() {
         print("Goddemmit...!")
+        print("Goddemmit2...!")
     }
 }
